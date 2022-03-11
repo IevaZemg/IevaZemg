@@ -6,7 +6,7 @@
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 You can reach me through email: ievazemg@gmail.com or my [LinkedIn](https://www.linkedin.com/in/ieva-zemgulyte/)
 
-## 🚀 My skill sets:
+## 🚀 My skill set:
  - AutoCAD
  - SolidWorks
  - MatLab
